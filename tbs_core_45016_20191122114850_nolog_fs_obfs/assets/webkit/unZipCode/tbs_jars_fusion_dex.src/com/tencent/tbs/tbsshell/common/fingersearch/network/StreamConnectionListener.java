@@ -1,0 +1,14 @@
+package com.tencent.tbs.tbsshell.common.fingersearch.network;
+
+public abstract interface StreamConnectionListener
+{
+  public abstract void onConnectFailed(Exception paramException);
+  
+  public abstract void onConnectSuccess();
+}
+
+
+/* Location:              C:\Users\Administrator\Desktop\学习资料\dex2jar\dex2jar-2.0\classes-dex2jar.jar!\com\tencent\tbs\tbsshell\common\fingersearch\network\StreamConnectionListener.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       0.7.1
+ */
