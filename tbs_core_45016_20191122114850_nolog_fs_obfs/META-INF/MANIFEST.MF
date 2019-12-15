@@ -1,0 +1,148 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.3.2
+
+Name: AndroidManifest.xml
+SHA1-Digest: nYVjt5X5dd5tI9hYbELjmr1jiYg=
+
+Name: assets/webkit/1
+SHA1-Digest: wgNEZBtB36CFG/obo4BVIFfkwE4=
+
+Name: assets/webkit/TencentLocationSDK.jar
+SHA1-Digest: gHRVisqnJ5WiU6k3ikOvymzojRc=
+
+Name: assets/webkit/apache_dex.jar
+SHA1-Digest: gDaMX8H5dXaHa5XW2hiiKVSlQk8=
+
+Name: assets/webkit/audio_base.jar
+SHA1-Digest: kP+agOGwQLiuUmLJPqXf8zNzUFU=
+
+Name: assets/webkit/miniqb.conf
+SHA1-Digest: rHrkcuEvkvRHAd0Q+FsULna0oPk=
+
+Name: assets/webkit/miniqb_dex.jar
+SHA1-Digest: MoChQJy8yGCWPw9aBdmjcvBGtVU=
+
+Name: assets/webkit/miniqbres.apk
+SHA1-Digest: oHU1AJsp6ho7fnv531qQXAVQVe8=
+
+Name: assets/webkit/native_ad_plugin_dex.jar
+SHA1-Digest: 109TePMPniK2nNJZq797Lw5uk+4=
+
+Name: assets/webkit/res.apk
+SHA1-Digest: WUGmv34JJhUQdbLTytUe43YerEE=
+
+Name: assets/webkit/tbs.conf
+SHA1-Digest: TTz8MHch31OJtshc8/qqPG17iGA=
+
+Name: assets/webkit/tbs_jars_fusion_dex.jar
+SHA1-Digest: Yw5NWp/wb6e70uu56icq7c6mItM=
+
+Name: assets/webkit/tbs_sdk_extension_dex.jar
+SHA1-Digest: SFWfpitOhgDufH71WF9X1UjF4Fg=
+
+Name: assets/webkit/tbs_ug_plugin.jar
+SHA1-Digest: cwCIm/T5UsnPuULOaz1zZ+yg8MI=
+
+Name: assets/webkit/video_impl_dex.jar
+SHA1-Digest: 6cQaXnCrIu3c50bhtIrxmWC7bdw=
+
+Name: assets/webkit/videores.apk
+SHA1-Digest: ugnLRrWezvajH6XUxyhgsTJqSNI=
+
+Name: classes.dex
+SHA1-Digest: 18rH3RihVaP9X4A4zWkHK02pnD8=
+
+Name: lib/armeabi/libBugly-tbscore.so
+SHA1-Digest: uMuuyXxzhwNh1+XiFzciwyMXMmY=
+
+Name: lib/armeabi/libLzmaDec.so
+SHA1-Digest: dUM9KXkAMHRmn3eVVztiQvP9W9w=
+
+Name: lib/armeabi/libLzmaDecForMulti.so
+SHA1-Digest: L8qbJeBgHc9WbHw61zKw/AOOo+8=
+
+Name: lib/armeabi/libSharpPDecoder.so
+SHA1-Digest: PJoXm3nM5Cv/GmTejJVPyQ0JGrY=
+
+Name: lib/armeabi/libTPGDecoder.so
+SHA1-Digest: 1VS3MdPp7AgRQtY7DwTujhF/aAs=
+
+Name: lib/armeabi/libTbsPatch.so
+SHA1-Digest: 9HQre80cte7ch4fMvQxu5wcD/Fo=
+
+Name: lib/armeabi/libWxHevcDecoder.so
+SHA1-Digest: FHaJity5w2SAQM6UNM7TEBh7glY=
+
+Name: lib/armeabi/libbitmaps.so
+SHA1-Digest: EodyTzeE6qpn05nPsfh0vRnp/kE=
+
+Name: lib/armeabi/libcmdsh.so
+SHA1-Digest: ULBHr2QcXhFiX4ukECD81xps658=
+
+Name: lib/armeabi/libcommon_basemodule_jni.so
+SHA1-Digest: pty1LSlUkAFyxMLTgLUQF2UJvec=
+
+Name: lib/armeabi/libgamehook.so
+SHA1-Digest: tfwT333ZuWHuHFxvO0AMKqMzvyg=
+
+Name: lib/armeabi/libgamejavahook.so
+SHA1-Digest: 6dxIxSejArgJ+vq7aqoHPu9Q9Xc=
+
+Name: lib/armeabi/liblinuxtoolsfortbssdk_jni.so
+SHA1-Digest: LE6eZMqhRIUzwBDF82pPFXlx45I=
+
+Name: lib/armeabi/libmemchunk.so
+SHA1-Digest: MoI4hHGfchMJDfXUspOBR/a8Zao=
+
+Name: lib/armeabi/libmtttrace.so
+SHA1-Digest: xgQJtwb3ViZUYXshw6gJP+OxZlU=
+
+Name: lib/armeabi/libmttwebview.so
+SHA1-Digest: x0a1edP0eFvhFY/4MxzwE+iqvX0=
+
+Name: lib/armeabi/libmttwebview_plat_support.so
+SHA1-Digest: tFKvwhCf5QKqN6pAVtHjp7xGJH8=
+
+Name: lib/armeabi/libqb2dsdk.so
+SHA1-Digest: +UzuL70ie+oW03vwD++exuQEuXA=
+
+Name: lib/armeabi/libqb_keystore.so
+SHA1-Digest: RYs4Tf3DUbIkw2KS+Hig9bUmN+0=
+
+Name: lib/armeabi/libqbglsdk.so
+SHA1-Digest: MAS9u5Jff43hmIlqPj3f7w/PHCM=
+
+Name: lib/armeabi/libresources.so
+SHA1-Digest: DLAr6BlOUukMxPfqs/gCGsVO3zs=
+
+Name: lib/armeabi/libtbsDEPS.so
+SHA1-Digest: fnRVAp/HzYIP1jkIgZSb0I/HgNM=
+
+Name: lib/armeabi/libtbs_courgette.so
+SHA1-Digest: 1jENCw/osUDdcUC/sfxJJwFHN8U=
+
+Name: lib/armeabi/libtbs_crash_handler.so
+SHA1-Digest: WBI5TkKTKPz2w21JErpiwPLz9uI=
+
+Name: lib/armeabi/libtencentpos.so
+SHA1-Digest: r4iLkSNVwrCV69eoW5j+U/Vbd9Q=
+
+Name: lib/armeabi/libturingtbs.so
+SHA1-Digest: UY9FFkke45D5YCZs3RzQd66c8LY=
+
+Name: lib/armeabi/libwebhook.so
+SHA1-Digest: ydyfsK0IGEHSWJ6yVDC7GbfQDP8=
+
+Name: lib/armeabi/libwebp_base.so
+SHA1-Digest: IqDHBuJFM1k6lyYVbwAoWORa2C8=
+
+Name: lib/armeabi/libwebviewchromium.so
+SHA1-Digest: ooNO78y4o1fD4x//G217Fr+BJAQ=
+
+Name: lib/armeabi/libzh_cn.so
+SHA1-Digest: 13o/zYnzA7KRiU+Hit3nQOc276A=
+
+Name: resources.arsc
+SHA1-Digest: QP47c9PlzGW6vPf3Xonm9Jl8CWI=
+
